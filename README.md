@@ -1,4 +1,5 @@
-## Hi there 👋
+![logo](https://github.com/Sonia493/Sonia493/blob/main/51607.jpg)
+
 
 <!--
 **Sonia493/Sonia493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sonia Biswas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonia493&label=Profile%20views&color=0e75b6&style=flat" alt="sonia493" /> </p>
 
